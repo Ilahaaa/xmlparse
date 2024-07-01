@@ -1,0 +1,44 @@
+<lotto>
+    <Game ItemId="01">
+        <FromAegis>
+            <DrawNo>24265</DrawNo>
+            <Date>2028-06-28 20:45:00</Date>
+            <WinNumberList>
+                <win type="1" number="7"/>
+                <win type="2" number="15"/>
+                <win type="3" number="19"/>
+                <win type="4" number="30"/>
+                <win type="5" number="36"/>
+                <win type="6" number=""/>
+            </WinNumberList>
+        </FromAegis>
+    </Game>
+    <Game ItemId="01">
+        <FromAegis>
+            <DrawNo>24265</DrawNo>
+            <Date>2028-06-28 20:45:00</Date>
+            <WinNumberList>
+                <win type="1" number="2"/>
+                <win type="2" number="5"/>
+                <win type="3" number="12"/>
+                <win type="4" number="17"/>
+                <win type="5" number="27"/>
+                <win type="6" number=""/>
+            </WinNumberList>
+        </FromAegis>
+    </Game>
+    <Game ItemId="01">
+        <FromAegis>
+            <DrawNo>24265</DrawNo>
+            <Date>2028-06-28 20:45:00</Date>
+            <WinNumberList>
+                <win type="1" number="3"/>
+                <win type="2" number="15"/>
+                <win type="3" number="21"/>
+                <win type="4" number="26"/>
+                <win type="5" number="31"/>
+                <win type="6" number=""/>
+            </WinNumberList>
+        </FromAegis>
+    </Game>
+</lotto>
